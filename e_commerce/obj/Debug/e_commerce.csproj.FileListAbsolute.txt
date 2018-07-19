@@ -1,0 +1,10 @@
+C:\subhajit\ELM\e_commerce\e_commerce\obj\Debug\e_commerce.csprojResolveAssemblyReference.cache
+C:\subhajit\ELM\e_commerce\e_commerce\bin\Debug\e_commerce.exe.config
+C:\subhajit\ELM\e_commerce\e_commerce\bin\Debug\e_commerce.exe
+C:\subhajit\ELM\e_commerce\e_commerce\bin\Debug\e_commerce.pdb
+C:\subhajit\ELM\e_commerce\e_commerce\bin\Debug\Entity.dll
+C:\subhajit\ELM\e_commerce\e_commerce\bin\Debug\Shop.dll
+C:\subhajit\ELM\e_commerce\e_commerce\bin\Debug\Entity.pdb
+C:\subhajit\ELM\e_commerce\e_commerce\bin\Debug\Shop.pdb
+C:\subhajit\ELM\e_commerce\e_commerce\obj\Debug\e_commerce.exe
+C:\subhajit\ELM\e_commerce\e_commerce\obj\Debug\e_commerce.pdb

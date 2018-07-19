@@ -1,0 +1,7 @@
+C:\subhajit\ELM\e_commerce\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\subhajit\ELM\e_commerce\Shop\bin\Debug\Shop.dll
+C:\subhajit\ELM\e_commerce\Shop\bin\Debug\Shop.pdb
+C:\subhajit\ELM\e_commerce\Shop\bin\Debug\Entity.dll
+C:\subhajit\ELM\e_commerce\Shop\bin\Debug\Entity.pdb
+C:\subhajit\ELM\e_commerce\Shop\obj\Debug\Shop.dll
+C:\subhajit\ELM\e_commerce\Shop\obj\Debug\Shop.pdb
