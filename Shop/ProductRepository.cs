@@ -33,6 +33,10 @@ namespace Shop
                 {
                     return (this.ci.Quantity / 3) * 10;
                 }
+                else if (this.ci.Quantity > 3)
+                {
+                    return (this.ci.Quantity % 3) * this.prod.Price + (int)(this.ci.Quantity / 3) * 10;
+                }
                 else
                 {
                     return this.ci.Quantity * this.prod.Price;
